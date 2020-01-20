@@ -5,14 +5,14 @@ Hi there,
 Thank you for taking the time to coplete this home assignemnt as part of our recruitment process.
 
 Before you read the instructions be sure to read the folllowing notes/guidelines:
-1. This repository contains a `./set.json` file in it's root directory. This file will be your data source for this assignment.
+1. This repository contains a `set.json` file in it's root directory. This file will be your data source for this assignment.
 2. Upon completion push your solution to this git repository, in a new branch with your full name (i.e. `michael-kalantarov`) as the branch name.
 2. Be sure to submit a solution in the form of a React web application.
 
 #### Instructions
 1. Create a react app with 2 views.
 	1. Login view (authentication)
-	2. A table presenting a data table with the fields and data fo the `./set.json` file.
+	2. A table presenting a data table with the fields and data fo the `set.json` file.
 2. Each view should live in its own page in its own route.
 3. The tables page should be restricted to a non-authenticated user.
 4. Upon authentication (through the login page) the app should write a cookie containing the authentication token.
